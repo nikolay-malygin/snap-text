@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/snap-text/static/css/main.afa7f211.css",
+    "main.js": "/snap-text/static/js/main.b9f1cb96.js",
+    "static/media/grid.jpg": "/snap-text/static/media/grid.fd80e42996590aeb0c06.jpg",
+    "index.html": "/snap-text/index.html",
+    "main.afa7f211.css.map": "/snap-text/static/css/main.afa7f211.css.map",
+    "main.b9f1cb96.js.map": "/snap-text/static/js/main.b9f1cb96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afa7f211.css",
+    "static/js/main.b9f1cb96.js"
+  ]
+}
